@@ -1,0 +1,38 @@
+_repo: Kritikai-dolgozatok-1854-1861_67249
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gyulai, Pál
+    alias: Gyulai, Pal
+    birthdate: 1826
+    deathdate: 1909
+    gutenberg_agent_id: '42135'
+    url: http://www.gutenberg.org/2009/agents/42135
+    wikipedia: https://hu.wikipedia.org/wiki/Gyulai_P%C3%A1l_%28irodalomt%C3%B6rt%C3%A9n%C3%A9sz%29
+description: ''
+gutenberg_issued: '2022-01-25'
+identifiers:
+  gutenberg: '67249'
+language: hu
+pgterms:marc905: 20211121161612gyulai
+pgterms:marc906: '1908'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Magyar Tudományos Akadémia,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Magyar Tudományos Akadémia Könyvkiadó Vállalat (Series). 1908-1910. cyclus;
+  új folyam, 76. köt.
+subjects:
+- !lcsh 'Hungarian literature -- 19th century -- History and criticism'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Petőfi Sándor és a lyrai költészet (Uj Magyar Múzeum 1854) -- Szépirodalmi
+  Szemle (Bpesti Hirlap 1855) -- Polemikus levelek (Pesti Napló 1857) -- Irónőink
+  (Pesti Napló 1858) -- Adalék népköltészetünkhöz (Bpesti Szemle 1860) -- Néhány szó
+  a kritikáról (Szépirodalmi Figyelő 1861) -- Megint a kritikáról (Szépirodalmi Figyelő
+  1861).
+title: Kritikai dolgozatok, 1854-1861
+url: http://www.gutenberg.org/ebooks/67249
